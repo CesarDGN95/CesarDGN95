@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CesarDGN95 or Gin-Sama69 on WZ ;)
-- 👀 I’m interested in ... Backend with Go, frontend with React Js and Cloud Technologies
+- 👀 I’m interested in ... Backend with ASP.NET, Microservices with Go, frontend with React Js and Cloud Technologies
 - 🌱 I’m currently learning ... Go, Reac JS, ASP.NET
 - 💞️ I’m looking to collaborate on ... Open Source Community 🧡
 - 📫 How to reach me ... davidnarro@gmail.com
