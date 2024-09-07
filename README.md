@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CesarDGN95 or Gin-Sama69 on WZ ;)
-- 👀 I’m interested in ... Backend with ASP.NET, Microservices with Go, frontend with React Js and Cloud Technologies
-- 🌱 I’m currently learning ... Reac JS, React Native, ASP.NET and Go as a hobbie.
+- 👀 I’m interested in ... Backend with ASP.NET and mobile developmnet with flutter
+- 🌱 I’m currently learning ... Flutter, Dart and ASP.NET.
 - 💞️ I’m looking to collaborate on ... Open Source Community 🧡
 - 📫 How to reach me ... davidnarro1995@gmail.com
 - ⚡ Fun fact: ... I take off my clothes to poop. (❁´◡`❁)
