@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @CesarDGN95 or Gin-Sama69 on WZ ;)
-- 👀 I’m interested in ... Backend with Go, C# and React Native
+- 💻 By day, I'm a .NET Jr Developer
+- 👀 I’m interested in ... Backend with Go and React technologies
 - 🌱 I’m currently learning ... Go, React JS and React Native.
 - 💞️ I’m looking to collaborate on ... Open Source Community 🧡
 - 📫 How to reach me ... davidnarro1995@gmail.com
